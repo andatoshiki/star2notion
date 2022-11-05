@@ -7,7 +7,7 @@ on:
 jobs:
   full-sync:
     runs-on: ubuntu-latest
-    environment: notion-sync
+    environment: star2notion
     steps:
       - uses: actions/checkout@v2
 
